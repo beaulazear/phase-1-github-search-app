@@ -11,3 +11,8 @@
 ul {
   list-style: none;
 }
+
+.userCard {
+  margin: 5%;
+  background-color: aqua;
+}
